@@ -1,83 +1,33 @@
-# Hi, I'm Muhammad Usman Ashraf 👋
+# Hi there, I'm Muhammad Usman Ashraf 👋
 
-🔐 MS Cybersecurity Researcher | AI Security | Intrusion Detection Systems
+### 🔐 MS Cybersecurity Researcher | AI Security Enthusiast | Full-Stack Professional
 
-I am a Master’s student at **Quaid-i-Azam University (QAU), Islamabad**, working at the intersection of **Artificial Intelligence and Cybersecurity**. My research focuses on building **transparent, explainable, and adaptive security systems** for real-world environments.
-
----
-
-## 🎓 Academic Focus
-- MS Cyber Security — **Quaid-i-Azam University**
-- Research Area: **Explainable AI (XAI) for Intrusion Detection Systems**
-- Interest in **Adversarial Machine Learning, Network Defense, and AI Security**
+I am a Master’s student at **Quaid-i-Azam University (QAU)**, Islamabad, focused on the intersection of **Artificial Intelligence and Cyber Defense**. My research aims to build transparent, adaptive, and human-centric security frameworks that solve real-world industrial challenges.
 
 ---
 
-## 🧪 Current Research
-- Developing **EHLA-IDS Framework**  
-  An explainable IDS using **Bidirectional LSTM + SHAP feedback loops**
+### 🚀 Professional Journey
+- **Academic Focus:** Pursuing an MS in Cyber Security at QAU, specializing in **Explainable AI (XAI)** and **Intrusion Detection Systems (IDS)**.
+- **Freelance Expertise:** Over **5 years** of professional experience in technical development and project management.
+- **Global Impact:** Delivered solutions to **a global client base through Fiverr**.
 
-- Exploring **Adversarial Attacks against Deep Learning Models**
+### 🧪 Current Research & Interests
+- **AI Security:** Developing the **EHLA-IDS Framework**—an explainable, bidirectional LSTM-based IDS that integrates human feedback.
+- **Adversarial Machine Learning:** Exploring how to make deep learning models resilient against sophisticated attacks.
+- **Network Defense:** Proactive monitoring, micro-segmentation, and infrastructure protection (HVAC/Elevator Security).
+- **Explainable AI (XAI):** Utilizing tools like **SHAP** to bridge the gap between "black-box" models and SOC analysts.
 
-- Building **Human-Centered Security Systems** that integrate analyst feedback.
-
----
-
-## 🛠️ Technical Stack
-
-**Languages**
-- Python
-- C++
-
-**Data Science / AI**
-- TensorFlow
-- Keras
-- Scikit-learn
-- Pandas
-- NumPy
-
-**Explainable AI**
-- SHAP
-
-**Security**
-- Intrusion Detection Systems
-- Network Analysis
-- Vulnerability Assessment
-
-**Tools**
-- LaTeX
-- Git
-- Linux (Ubuntu)
-- macOS
+### 🛠️ Technical Toolkit
+- **Research:** Python, LaTeX, NumPy, Pandas, Scikit-learn
+- **AI/DL:** TensorFlow, Keras, SHAP (Explainable AI)
+- **Security:** Network Analysis, IDS Implementation, Vulnerability Assessment
 
 ---
 
-## 🚀 Featured Project
-
-### EHLA-IDS Framework
-Explainable AI powered intrusion detection system.
-
-Key highlights:
-- Bidirectional LSTM architecture
-- SHAP based explainability
-- Analyst feedback loop
-- Reduced false positives by **45.49%**
+### 📫 Let's Connect
+- 📧 **Email:** [usman.ashraf@qau.edu.pk](mailto:usman.ashraf@qau.edu.pk)
+- 📍 **Location:** Islamabad, Pakistan
+- 🏛️ **Affiliation:** Quaid-i-Azam University
 
 ---
-
-## 💼 Professional Experience
-- 5+ years of freelance technical development
-- Delivered solutions to **a global client base through Fiverr**
-- Experience in **software development, automation, and technical research support**
-
----
-
-## 📫 Connect With Me
-
-📧 usman.ashraf@qau.edu.pk  
-📍 Islamabad, Pakistan  
-🏛 Quaid-i-Azam University  
-
----
-
-*"Building secure and trustworthy AI systems."*
+*"Building the future of secure and trustworthy AI."*
